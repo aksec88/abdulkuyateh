@@ -229,7 +229,7 @@ Participated in a real-time incident response simulation where a phishing attack
     <a href="https://www.abdulkuyateh.com" target="_blank">  
         <img src="https://img.shields.io/badge/-Website-000000?&style=for-the-badge&logo=Google-Chrome&logoColor=white" />  
     </a>  
-    <a href="https://linkedin.com/in/abdul-kuyateh" target="_blank">  
+    <a href="https://linkedin.com/in/akuyatehsec" target="_blank">  
         <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=LinkedIn&logoColor=white" />  
     </a>  
     <a href="https://github.com/akuyatehjnr" target="_blank">  
