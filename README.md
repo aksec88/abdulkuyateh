@@ -235,7 +235,7 @@ Participated in a real-time incident response simulation where a phishing attack
     <a href="https://github.com/akuyatehjnr" target="_blank">  
         <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />  
     </a>  
-    <a href="https://tryhackme.com/p/akuyatehjnr" target="_blank">  
+    <a href="https://tryhackme.com/p/akuyatehjnr(https://tryhackme.com/p/Aj88)" target="_blank">  
         <img src="https://img.shields.io/badge/-TryHackMe-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" />  
     </a>  
 </div>
