@@ -16,16 +16,16 @@ Focused on transitioning into a Tier 1 SOC Analyst role, applying SIEM monitorin
 
 | **Skill** | **Associated Project** |
 |----------|------------------------|
-| SIEM & Log Analysis | <a href="https://github.com/your-username/splunk-soc-investigation-lab">Splunk SOC Investigation Lab – Endpoint Compromise Analysis</a> |
-| SIEM Detection Engineering & Incident Response | <a href="https://github.com/your-username/elk-siem-soc-lab">ELK Stack SOC Analyst Lab (30-Day Challenge)</a> |
-| Alert Triage & Incident Response | <a href="https://github.com/your-username/soc-simulations">SOC Simulations</a> |
-| Network Traffic Analysis | <a href="https://github.com/your-username/wireshark-lab">Wireshark Lab</a> |
-| Threat Detection & Monitoring | <a href="https://github.com/your-username/soc-homelab-lab">SOC Homelab Lab</a> |
-| Security Automation (SOAR) | <a href="https://github.com/your-username/soc-automation-lab">SOC Automation Lab</a> |
-| Active Directory Security | <a href="https://github.com/your-username/active-directory-lab">Active Directory Lab</a> |
-| Endpoint Monitoring & Analysis | <a href="https://github.com/your-username/sysmon-lab">Sysmon Lab</a> |
-| Vulnerability Management | <a href="https://github.com/your-username/vulnerability-management-lab">Vulnerability Management Lab</a> |
-| Threat Intelligence & MITRE ATT&CK Mapping | <a href="https://github.com/your-username/soc-investigations">SOC Investigations</a> |
+| SIEM & Log Analysis | <a href="https://github.com/aksec88/splunk-soc-investigation-lab">Splunk SOC Investigation Lab – Endpoint Compromise Analysis</a> |
+| SIEM Detection Engineering & Incident Response | <a href="https://github.com/aksec88/elk-siem-soc-lab">ELK Stack SOC Analyst Lab (30-Day Challenge)</a> |
+| Alert Triage & Incident Response | <a href="https://github.com/aksec88/soc-simulations">SOC Simulations</a> |
+| Network Traffic Analysis | <a href="https://github.com/aksec88/wireshark-lab">Wireshark Lab</a> |
+| Threat Detection & Monitoring | <a href="https://github.com/aksec88/soc-homelab-lab">SOC Homelab Lab</a> |
+| Security Automation (SOAR) | <a href="https://github.com/aksec88/soc-automation-lab">SOC Automation Lab</a> |
+| Active Directory Security | <a href="https://github.com/aksec88/active-directory-lab">Active Directory Lab</a> |
+| Endpoint Monitoring & Analysis | <a href="https://github.com/aksec88/sysmon-lab">Sysmon Lab</a> |
+| Vulnerability Management | <a href="https://github.com/aksec88/vulnerability-management-lab">Vulnerability Management Lab</a> |
+| Threat Intelligence & MITRE ATT&CK Mapping | <a href="https://github.com/aksec88/soc-investigations">SOC Investigations</a> |
 
 ---
 
