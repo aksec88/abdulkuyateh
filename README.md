@@ -4,29 +4,27 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
+---
+
 ## Introduction
-Aspiring SOC Analyst with hands-on experience investigating attack scenarios, analyzing security telemetry, and responding to incidents using modern SIEM platforms. Currently completing the 90-Day SOC Accelerator Program with daily labs in detection, investigation, and incident response.
+
+SOC Analyst Intern (Tier 1) at MYDFIR Forge with hands-on experience investigating real attack scenarios using Splunk, Sysmon, and network telemetry. Skilled in analyzing authentication, endpoint, and network logs to reconstruct attacker activity and identify indicators of compromise.
+
+---
 
 ## Objective
-Transition into a Tier 1 SOC Analyst role by applying strong SIEM monitoring, alert triage, and investigation skills in real-world environments.
 
-## What I Bring
-- Strong log analysis and investigation skills  
-- Experience analyzing real attack scenarios  
-- Clear and concise documentation of findings  
-- Familiarity with SOC workflows and MITRE ATT&CK  
-- Hands-on experience with SIEM platforms  
-- Analytical thinking and attention to detail  
+Seeking a Tier 1 SOC Analyst role where I can contribute to threat detection, alert triage, and incident investigation in a real-world SOC environment.
 
-## Core Competencies
-- Log Analysis  
-- Alert Triage  
-- Incident Investigation  
-- Threat Detection  
-- MITRE ATT&CK Mapping  
-- Report Writing  
-- SIEM Monitoring  
-- Network Traffic Analysis  
+---
+
+## Core Capabilities
+
+- Investigating end-to-end attack chains (initial access → C2 → persistence)  
+- Correlating authentication, endpoint, and network telemetry  
+- Identifying attacker behavior and validating indicators of compromise  
+- Mapping activity to MITRE ATT&CK techniques  
+- Writing clear, structured incident reports  
 
 ---
 
@@ -46,7 +44,7 @@ Transition into a Tier 1 SOC Analyst role by applying strong SIEM monitoring, al
 
 | Project | Description |
 |--------|-------------|
-| <a href="https://github.com/aksec88/splunk-soc-investigation-lab">Password Spray → Compromise → Sliver C2</a> | SOC investigation of a password spray attack leading to account compromise, payload execution, and Sliver C2 activity, analyzed in Splunk. |
+| <a href="https://github.com/aksec88/splunk-soc-investigation-lab">Password Spray → Compromise → Sliver C2</a> | Investigated a password spraying attack that led to account compromise, privilege escalation, payload execution, and Sliver C2 communication. Correlated Splunk, Sysmon, and network telemetry to reconstruct the full attack chain and validate persistence and lateral movement attempts. |
 
 ---
 
@@ -63,6 +61,7 @@ Transition into a Tier 1 SOC Analyst role by applying strong SIEM monitoring, al
 ---
 
 ## Certifications
+
 - CompTIA Security+  
 - SOC Level 1 — TryHackMe  
 - Jr Penetration Tester — TryHackMe  
@@ -73,6 +72,7 @@ Transition into a Tier 1 SOC Analyst role by applying strong SIEM monitoring, al
 ---
 
 ## Education
+
 - Master of Science in Information Assurance & Cybersecurity — Grand Canyon University  
 - Bachelor of Science in Accounting & Finance — University of Sierra Leone (WES Evaluated)
 
