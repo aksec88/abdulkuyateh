@@ -71,10 +71,4 @@ Focused on transitioning into a Tier 1 SOC Analyst role, applying SIEM monitorin
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
 </div>
-  <a href="mailto:abdulkuyateh.sec@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/akuyatehsec">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
-</div>
+ 
