@@ -6,25 +6,22 @@
 
 ---
 
-## Introduction
+SOC Analyst Intern (Tier 1) with hands-on experience investigating real attack activity across authentication, endpoint, and network layers. I focus on identifying malicious behavior in SIEM platforms, validating indicators of compromise, and reconstructing intrusion paths using correlated telemetry.
 
-SOC Analyst Intern (Tier 1) at MYDFIR Forge with hands-on experience investigating real attack scenarios using Splunk, Sysmon, and network telemetry. Skilled in analyzing authentication, endpoint, and network logs to reconstruct attacker activity and identify indicators of compromise.
+My work centers on practical blue-team investigation: reviewing authentication anomalies, correlating Sysmon process activity, and analyzing network traffic for command-and-control (C2) patterns.
 
----
-
-## Objective
-
-Seeking a Tier 1 SOC Analyst role where I can contribute to threat detection, alert triage, and incident investigation in a real-world SOC environment.
+I document findings in clear, structured SOC reports that support incident response.
 
 ---
 
-## Core Capabilities
+## Core Competencies
 
-- Investigating end-to-end attack chains (initial access → C2 → persistence)  
-- Correlating authentication, endpoint, and network telemetry  
-- Identifying attacker behavior and validating indicators of compromise  
-- Mapping activity to MITRE ATT&CK techniques  
-- Writing clear, structured incident reports  
+- SIEM alert monitoring, triage, and initial investigation  
+- Log analysis and threat identification across endpoint and network data  
+- Detection of common attack patterns (e.g., password spraying, malware, C2 activity)  
+- Incident documentation and escalation following SOC workflows  
+- MITRE ATT&CK mapping and attack chain analysis  
+- Clear, concise communication of findings and risk 
 
 ---
 
@@ -32,31 +29,33 @@ Seeking a Tier 1 SOC Analyst role where I can contribute to threat detection, al
 
 | Category | Tools |
 |---------|--------|
-| Network & Forensics | Wireshark, Suricata, Zeek |
-| SIEM & Monitoring | Microsoft Sentinel, Splunk, ELK Stack |
-| Endpoint Monitoring | Sysmon |
-| Automation & Scripting | Python, PowerShell, Bash |
-| Security Tools | Nmap, OpenVAS |
+| SIEM & Monitoring | ![Splunk](https://img.shields.io/badge/-Splunk-65A637?style=flat-square&logo=Splunk&logoColor=white) ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square&logo=Microsoft&logoColor=white) ![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=Elastic&logoColor=white) |
+| Network Analysis | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/-Zeek-1F1F1F?style=flat-square) ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=flat-square) |
+| Endpoint Monitoring | ![Microsoft Defender](https://img.shields.io/badge/-Microsoft%20Defender-0078D4?style=flat-square&logo=Microsoft&logoColor=white) ![Sysmon](https://img.shields.io/badge/-Sysmon-0078D4?style=flat-square) |
+| Scripting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white) |
+| Security Tools | ![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat-square) ![OpenVAS](https://img.shields.io/badge/-OpenVAS-00A300?style=flat-square) |
 
 ---
 
-## SOC Investigations & Incident Response
+## Projects
 
 | Project | Description |
 |--------|-------------|
-| <a href="https://github.com/aksec88/splunk-soc-investigation-lab">Password Spray → Compromise → Sliver C2</a> | Investigated a password spraying attack that led to account compromise, privilege escalation, payload execution, and Sliver C2 communication. Correlated Splunk, Sysmon, and network telemetry to reconstruct the full attack chain and validate persistence and lateral movement attempts. |
+| <a href="https://github.com/aksec88/splunk-101-soc-investigation-lab">FRONTDESK-PC1 Compromise</a> | Password spraying → NTLM compromise with persistence and C2 activity (Splunk). |
 
 ---
 
-## Skills Demonstrated
-
 | Skill | Demonstrated In |
 |-------|-----------------|
-| SIEM Log Analysis | Splunk Investigation |
-| Detection Engineering | ELK SOC Lab |
-| Security Automation | SOC Automation Lab |
-| Active Directory Security | Active Directory Lab |
-| Vulnerability Management | Vulnerability Management Lab |
+| SIEM Alert Triage & Incident Investigation | <a href="https://github.com/aksec88/splunk-101-soc-investigation-lab">FRONTDESK-PC1 Compromise</a> |
+
+---
+
+## What I’m Building
+
+I develop hands-on SOC investigation projects that simulate real-world attack scenarios, including password spraying, endpoint compromise, persistence mechanisms, and command-and-control activity.
+
+Each project follows a structured SOC workflow—alert triage, log correlation, timeline reconstruction, and detection mapping—supported by evidence and documented findings.
 
 ---
 
@@ -64,7 +63,6 @@ Seeking a Tier 1 SOC Analyst role where I can contribute to threat detection, al
 
 - CompTIA Security+  
 - SOC Level 1 — TryHackMe  
-- Jr Penetration Tester — TryHackMe  
 - SOC Analyst Learning Path — LetsDefend  
 - Introduction to Network Analysis — Security Blue Team  
 - Introduction to Forensic Analysis — Security Blue Team  
@@ -84,9 +82,4 @@ Seeking a Tier 1 SOC Analyst role where I can contribute to threat detection, al
   <a href="mailto:abdulkuyateh.sec@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/akuyatehsec">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
-  </a>
 </div>
-
-
