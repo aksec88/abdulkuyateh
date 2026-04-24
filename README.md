@@ -41,8 +41,7 @@ I document findings in clear, structured SOC reports that support incident respo
 
 | Project | Description |
 |--------|-------------|
-| <a href="https://github.com/aksec88/splunk-101-soc-investigation-lab">FRONTDESK-PC1 Compromise</a> | Password spraying → NTLM compromise with persistence and C2 activity (Splunk). |
-
+| <a href="https://github.com/aksec88/splunk-frontdesk-pc1-compromise">FRONTDESK‑PC1 Compromise</a> | Password spraying → NTLM compromise with persistence and Sliver C2 activity (Splunk). |
 ---
 
 | Skill | Demonstrated In |
